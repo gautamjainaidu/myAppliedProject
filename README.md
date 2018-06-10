@@ -1,4 +1,4 @@
-# myAppliedProject
+# My Applied Project 
 
 ## Next generation analytics for price recommendations
 
